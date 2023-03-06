@@ -1,6 +1,6 @@
 <h3> Projeto CRUD AGENDA SUS </h3>
 <h4> Projeto Backend com as funcionalidades do CRUD </h4> 
-<h5> Iniciamos o projeto realizando o banco de dados com o MYSQL, apenas com uma entidade(pacientes) com todos os métodos CRUD, utilizando a linguagem SQL: </h5>
+<h5> Iniciamos o projeto realizando a criaçaõ do banco de dados com o MYSQL, apenas com uma entidade(pacientes) com todos os métodos CRUD, utilizando a linguagem SQL: </h5>
   
 ![image](https://user-images.githubusercontent.com/112409145/223207609-aaeb1290-5c5c-40c7-b5ff-34906e77fc33.png) ![image](https://user-images.githubusercontent.com/112409145/223209586-d3243d1e-c3af-4962-9369-0d0cec42e188.png)
 
@@ -35,6 +35,10 @@
 
 ![image](https://user-images.githubusercontent.com/112409145/223213396-4383bb3a-0c4d-4c1f-98ee-a399d7ce6ec0.png)
 
+<h5> Dependencias </h5>
+
+
+![image](https://user-images.githubusercontent.com/112409145/223214249-31afde58-eafb-40e0-a11a-a747d4bd3825.png)
 
 
 
